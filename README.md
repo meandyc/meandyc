@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+
+![picture-linkedin](https://github.com/meandyc/meandyc/assets/121063076/62563932-1f1e-424a-acc9-2972e984227d)
+
+
 <!--
 **meandyc/meandyc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
