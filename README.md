@@ -21,3 +21,5 @@ Here are some ideas to get you started:
 Hello World.
 
 Building my GitHub profile.
+
+My description will go in this space down here.
